@@ -17,4 +17,4 @@ We created a *mixed attack* by combining selfish mining attack and blockwithhold
 ## Main Results
 
 ## Reference
-For full references, please see more in my thesis. Here I provide an link to the [code implement of optimal selfish mining](https://github.com/nirenzang/Optimal-Selfish-Mining-Strategies-in-Bitcoin), which is useful to help you understand the concept of *optimal strategy* in blockchain attack analysis.
+For full references, please see more in my thesis. Here I provide an link to the [code implement of solving optimal selfish mining strategy](https://github.com/nirenzang/Optimal-Selfish-Mining-Strategies-in-Bitcoin), which is useful to help you understand the concept of *optimal strategy* in blockchain attack analysis.
