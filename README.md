@@ -15,6 +15,7 @@ Withhodling Attack*
 We created a *mixed attack* by combining selfish mining attack and blockwithholding attack dynamically. The best strategy for the mixed attack was derived using Markov Decision Process (MDP)
 
 ## Main Results
+<img src="./pictures/results.png" width = "60%" />
 
 ## Reference
 For full references, please see more in my thesis. Here I provide an link to the [code implement of solving optimal selfish mining strategy](https://github.com/nirenzang/Optimal-Selfish-Mining-Strategies-in-Bitcoin), which is useful to help you understand the concept of *optimal strategy* in blockchain attack analysis.
